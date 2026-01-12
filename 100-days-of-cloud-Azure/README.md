@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://i.postimg.cc/90kYVSYq/Screenshot-from-2026-01-12-16-24-12.png" />
+  
   <img src="https://engineer.kodekloud.com/courser/100days_cloud.svg" alt="" width="250" />
   <h1>100 Days of Cloud (Azure)</h1>
 </div>
