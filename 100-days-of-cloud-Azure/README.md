@@ -8,7 +8,7 @@ Status:Day 50/100
 Curriculum: KodeKloud
 Primary Focus: Cloud Administration & Infrastructure
 
-This repository serves as a technical **Portfolio of Evidence documenting my journey to master Microsoft Azure. It contains lab reports, architectural notes, and automation scripts.
+This repository serves as a technical Portfolio of Evidence documenting my journey to master Microsoft Azure. It contains lab reports, architectural notes, and automation scripts.
 
 📊 Competency Breakdown (First 50 Days)
 I have structured my learning to align with real-world roles. My first 50 days have been heavily focused on **Cloud Administration** to build a solid infrastructure foundation.
