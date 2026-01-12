@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://engineer.kodekloud.com/courser/100days_cloud.svg" alt="100 Days of Cloud" width="200" />
+  <img src="https://engineer.kodekloud.com/courser/100days_cloud.svg" alt="100 Days of Cloud" width="450" />
   <h1>100 Days of Cloud (Azure)</h1>
 </div>
 ☁️ 100 Days of Azure | Portfolio of Evidence (PoE)
@@ -29,5 +29,8 @@ I have structured my learning to align with real-world roles. My first 50 days h
 
 * <h3>My Learning Path</h3>
 <img src="https://i.postimg.cc/90kYVSYq/Screenshot-from-2026-01-12-16-24-12.png" width="800" alt="Roadmap" />
+
+Linked-in:
+EmailL:
 
 Created by [Kha-cyber-IT](https://github.com/Kha-cyber-IT)
