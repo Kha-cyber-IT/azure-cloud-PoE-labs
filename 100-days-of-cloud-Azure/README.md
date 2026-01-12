@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/90kYVSYq/Screenshot-from-2026-01-12-16-24-12.png" />
-  
-  <img src="https://engineer.kodekloud.com/courser/100days_cloud.svg" alt="" width="250" />
+  <img src="https://engineer.kodekloud.com/courser/100days_cloud.svg" alt="100 Days of Cloud" width="200" />
   <h1>100 Days of Cloud (Azure)</h1>
 </div>
 ☁️ 100 Days of Azure | Portfolio of Evidence (PoE)
@@ -28,5 +26,8 @@ I have structured my learning to align with real-world roles. My first 50 days h
 * Day 21-30: Advanced Networking & Databases
 * Day 31-40: Web Apps, Containers & Key Vault
 * Day 41-50: AKS, Event Hubs & App Gateway
+
+* <h3>My Learning Path</h3>
+<img src="https://i.postimg.cc/90kYVSYq/Screenshot-from-2026-01-12-16-24-12.png" width="800" alt="Roadmap" />
 
 Created by [Kha-cyber-IT](https://github.com/Kha-cyber-IT)
